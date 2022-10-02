@@ -98,15 +98,3 @@ git fetch
 Por fim, faça o merge da sua branch do recurso em dev:
 
 git merge <nome-da-branch-com-o-recurso>
-
-
-
-
-
-
-
-
-
-
-
-
